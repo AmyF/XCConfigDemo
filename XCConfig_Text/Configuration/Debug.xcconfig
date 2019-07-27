@@ -1,0 +1,14 @@
+//
+//  Config.xcconfig
+//  XCConfig_Text
+//
+//  Created by Feida Huang on 2019/7/26.
+//  Copyright © 2019 unko. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BuildConfig_PRODUCT_NAME = Debug
+
+BuildConfig_NICKNAME = DebugBoy
